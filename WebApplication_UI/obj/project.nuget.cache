@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z1gEILMS+b8iOYgGDYKDns3V2igIJRks6RnujkX7BiSYn9Om1RiWzaIwISv3vwlZq7wSt4WMiEhpuTN1KOevOQ==",
+  "dgSpecHash": "nv1ZvfimeeDOQrSdOCXtMNPO4A64I3RvX0FY+l5aoEF72pY05wo1uQ7FS34mjVuOHTwCQUrCFYu3VOTPjFk0Lw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leon\\source\\repos\\WebApplication_UI\\WebApplication_UI\\WebApplication_UI.csproj",
+  "projectFilePath": "C:\\GitHub\\WebApplication_UI\\WebApplication_UI\\WebApplication_UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leon\\.nuget\\packages\\jquery\\1.4.4\\jquery.1.4.4.nupkg.sha512",
     "C:\\Users\\Leon\\.nuget\\packages\\jquery.validation\\1.19.1\\jquery.validation.1.19.1.nupkg.sha512",

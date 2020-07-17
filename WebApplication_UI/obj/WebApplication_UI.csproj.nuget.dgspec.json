@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leon\\source\\repos\\WebApplication_UI\\WebApplication_UI\\WebApplication_UI.csproj": {}
+    "C:\\GitHub\\WebApplication_UI\\WebApplication_UI\\WebApplication_UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leon\\source\\repos\\WebApplication_UI\\WebApplication_UI\\WebApplication_UI.csproj": {
+    "C:\\GitHub\\WebApplication_UI\\WebApplication_UI\\WebApplication_UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leon\\source\\repos\\WebApplication_UI\\WebApplication_UI\\WebApplication_UI.csproj",
+        "projectUniqueName": "C:\\GitHub\\WebApplication_UI\\WebApplication_UI\\WebApplication_UI.csproj",
         "projectName": "WebApplication_UI",
-        "projectPath": "C:\\Users\\Leon\\source\\repos\\WebApplication_UI\\WebApplication_UI\\WebApplication_UI.csproj",
+        "projectPath": "C:\\GitHub\\WebApplication_UI\\WebApplication_UI\\WebApplication_UI.csproj",
         "packagesPath": "C:\\Users\\Leon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leon\\source\\repos\\WebApplication_UI\\WebApplication_UI\\obj\\",
+        "outputPath": "C:\\GitHub\\WebApplication_UI\\WebApplication_UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
